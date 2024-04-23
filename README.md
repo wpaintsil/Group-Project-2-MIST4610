@@ -24,3 +24,9 @@ https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
 ## Question 1
 
 Is there a seasonal pattern or trend in the occurrence of high severity traffic crashes in Tempe? By analyzing the data over time using Tableau, we can examine whether there are any consistent fluctuations or spikes in crash rates throughout the year. Understanding seasonal variations in crash frequency can help authorities allocate resources more effectively, such as increasing enforcement or implementing awareness campaigns during periods when crash rates typically rise.
+
+
+## Question 2
+ What are the most common types of high severity traffic crashes in Tempe, and how do they vary by location? By visualizing the distribution of crash types across different areas of the city using Tableau, we can identify whether certain types of crashes are more prevalent in specific neighborhoods or along particular roadways. This information could inform targeted safety interventions tailored to address the specific risks present in different parts of the city.
+
+
