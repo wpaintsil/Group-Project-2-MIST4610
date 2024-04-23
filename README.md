@@ -32,6 +32,7 @@ The analysis of high severity traffic crashes in Tempe pre-COVID between 2012 an
 
 ## Question 2: What is the average age of drivers involved in different manners of collisions in Tempe?
 Understanding the age demographics of drivers involved in various collision manners helps identify vulnerable groups. For example, if younger drivers are overrepresented in certain types of collisions, it may indicate a need for targeted interventions such as driver education programs or stricter enforcement of traffic laws.
+<img width="1055" alt="Screenshot 2024-04-23 at 4 44 51 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/691cff7b-b417-46fe-afe0-2461ae2a3c15">
 
 
 ## other question option: What are the most common types of high severity traffic crashes in Tempe, and how do they vary by location? 
