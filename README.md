@@ -34,7 +34,7 @@ The analysis of high severity traffic crashes in Tempe pre-COVID between 2012 an
 Understanding the age demographics of drivers involved in various collision manners helps identify vulnerable groups. For example, if younger drivers are overrepresented in certain types of collisions, it may indicate a need for targeted interventions such as driver education programs or stricter enforcement of traffic laws.
 
 
-// other question option: What are the most common types of high severity traffic crashes in Tempe, and how do they vary by location? 
+## other question option: What are the most common types of high severity traffic crashes in Tempe, and how do they vary by location? 
 By visualizing the distribution of crash types across different areas of the city using Tableau, we can identify whether certain types of crashes are more prevalent in specific neighborhoods or along particular roadways. This information could inform targeted safety interventions tailored to address the specific risks present in different parts of the city.
 
 
