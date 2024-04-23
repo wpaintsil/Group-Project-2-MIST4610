@@ -18,3 +18,9 @@ Owen Goble [@OwenGoble](https://github.com/OwenGoble/MIST4610-Group-5.git)
 
 
 https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
+
+
+
+## Question 1
+
+Is there a seasonal pattern or trend in the occurrence of high severity traffic crashes in Tempe? By analyzing the data over time using Tableau, we can examine whether there are any consistent fluctuations or spikes in crash rates throughout the year. Understanding seasonal variations in crash frequency can help authorities allocate resources more effectively, such as increasing enforcement or implementing awareness campaigns during periods when crash rates typically rise.
