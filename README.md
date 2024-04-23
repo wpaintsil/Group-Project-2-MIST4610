@@ -23,7 +23,7 @@ https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
 
 ## Question 1: Is there a seasonal pattern or trend in the occurrence of high severity traffic crashes in Tempe?
 By analyzing the data over time using Tableau, we can examine whether there are any consistent fluctuations or spikes in crash rates throughout the year. Understanding seasonal variations in crash frequency can help authorities allocate resources more effectively, such as increasing enforcement or implementing awareness campaigns during periods when crash rates typically rise.
-<img width="1051" alt="Screenshot 2024-04-23 at 3 51 38 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/c154355c-6253-4724-a964-7b4285ab8c5d">
+
 ## Question 1 Analysis
 The analysis of high severity traffic crashes in Tempe between 2012 and 2016 reveals intriguing seasonal trends. July consistently sees a decrease in crash occurrence, likely influenced by factors such as favorable weather conditions and reduced traffic congestion. Conversely, October shows a notable increase in crashes, potentially due to factors like changing weather conditions, seasonal events, or behavioral shifts post-summer vacations. Understanding these seasonal variations is crucial for implementing targeted interventions to address heightened crash risks during specific times of the year, ultimately contributing to improved road safety outcomes in Tempe.
 
