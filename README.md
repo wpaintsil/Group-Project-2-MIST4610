@@ -30,7 +30,7 @@ By analyzing the data over time using Tableau, we can examine whether there are 
 The analysis of high severity traffic crashes in Tempe pre-COVID between 2012 and 2019 reveals intriguing seasonal trends. July consistently sees a decrease in crash occurrence, likely influenced by factors such as favorable weather conditions and reduced traffic congestion. Conversely, October shows a notable increase in crashes, potentially due to factors like changing weather conditions, seasonal events, or behavioral shifts post-summer vacations. Understanding these seasonal variations is crucial for implementing targeted interventions to address heightened crash risks during specific times of the year, ultimately contributing to improved road safety outcomes in Tempe.
 
 
-## Question 2: What is the average age of drivers involved in different manners of collisions in Tempe?
+## Question 2: What is the occurrence of different manners of collisions based on age of drivers in Tempe?
 Understanding the age demographics of drivers involved in various collision manners helps identify vulnerable groups. For example, if younger drivers are overrepresented in certain types of collisions, it may indicate a need for targeted interventions such as driver education programs or stricter enforcement of traffic laws.
 <img width="1055" alt="Screenshot 2024-04-23 at 4 44 51 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/691cff7b-b417-46fe-afe0-2461ae2a3c15">
 
