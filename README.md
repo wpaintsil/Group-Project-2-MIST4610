@@ -4,17 +4,17 @@
 
 ## Team Members:
 
-Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/MIST4610-Group-5)
+Emily McNeice    [@ekmcneice]
 
-Warren Paintsil  [@wpaintsil](https://github.com/wpaintsil/MIST4610-Group-5)
+Warren Paintsil  [@wpaintsil]
 
-Nathan Favors [@Nathanfavors](https://github.com/ekmcneice/MIST4610-Group-5)
+Nathan Favors [@Nathanfavors]
 
-Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/MIST4610-Group-5)
+Duncan Zeller   [@duncanzeller]
 
-Jessica Hall [@jessicahall57](https://github.com/jessicahall57/MIST4610-Group-5)
+Jessica Hall [@jessicahall57]
 
-Owen Goble [@OwenGoble](https://github.com/OwenGoble/MIST4610-Group-5.git)
+Owen Goble [@OwenGoble]
 
 
 https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
