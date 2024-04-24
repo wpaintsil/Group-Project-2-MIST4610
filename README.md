@@ -32,7 +32,9 @@ The analysis of high severity traffic crashes in Tempe pre-COVID between 2012 an
 
 ## Question 2: What is the occurrence of different manners of collisions based on age of drivers in Tempe?
 Understanding the age demographics of drivers involved in various collision manners helps identify vulnerable groups. For example, if younger drivers are overrepresented in certain types of collisions, it may indicate a need for targeted interventions such as driver education programs or stricter enforcement of traffic laws.
-<img width="1055" alt="Screenshot 2024-04-23 at 4 44 51 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/691cff7b-b417-46fe-afe0-2461ae2a3c15">
+<img width="1055" alt="Screenshot 2024-04-23 at 4 44 51 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/2293caa5-b13b-4995-87d5-01f2ed9bcda1">
+<img width="1050" alt="Screenshot 2024-04-24 at 6 04 07 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/c2023103-a97a-41c6-bbff-bf8230ab8d15">
+
 
 ## Question 2 Analysis 
 
