@@ -39,7 +39,7 @@ Understanding the age demographics of drivers involved in various collision mann
 
 ## Question 2 Analysis 
 
-The analysis of collision manners based on drivers' ages in Tempe shows that drivers in their early 20s are involved in a significant number of collisions. However, there doesn't seem to be a clear link between the type of collision and the age of the driver. This suggests that while younger drivers may be at higher risk overall, the specific type of collision they're involved in isn't strongly influenced by their age. Overall, this highlights the need for targeted interventions to address the higher collision rates among younger drivers, while also recognizing that multiple factors contribute to collision outcomes in Tempe.
+The analysis of collision manners based on drivers' ages in Tempe shows that drivers in their early 20s are involved in a significant number of collisions. However, when considering the proportions of different collision types and age, there doesn't seem to be a clear link between the type of collision and the age of the driver. This suggests that while younger drivers may be at higher risk overall, the specific type of collision they're involved in isn't strongly influenced by their age. Overall, this highlights the need for targeted interventions to address the higher collision rates among younger drivers, while also recognizing that multiple factors contribute to collision outcomes in Tempe.
 
 
 
