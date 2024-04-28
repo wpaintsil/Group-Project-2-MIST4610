@@ -14,7 +14,7 @@ Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/Group-Project-2-
 
 Jessica Hall [@jessicahall57]
 
-Owen Goble [@OwenGoble]
+Owen Goble [@OwenGoble](https://github.com/OwenGoble/Group-Project-2-MIST4610)
 
 
 https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
