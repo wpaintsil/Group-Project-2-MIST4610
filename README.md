@@ -21,8 +21,8 @@ https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
 
 
 
-## Question 1: Is there a seasonal pattern or trend in the occurrence of high severity traffic crashes in Tempe?
-By analyzing the data over time using Tableau, we can examine whether there are any consistent fluctuations or spikes in crash rates throughout the year. Understanding seasonal variations in crash frequency can help authorities allocate resources more effectively, such as increasing enforcement or implementing awareness campaigns during periods when crash rates typically rise.
+## Question 1: What correlations exist between the seasonal migration of college students in Tempe, Arizona, and the occurrence of high severity traffic crashes, and how do the ages of drivers involved in crashes vary across different months of the year?
+By analyzing the data over time using Tableau, we can examine whether there are any consistent fluctuations or spikes in crash rates throughout the year, and if these fluctuations coincide with the winter and summer exoduses of Arizona State University students, whose main campus is located in Tempe. Understanding these correlations can offer valuable insights for traffic management strategies and public safety initiatives, highlighting the importance of considering demographic factors in comprehensive traffic safety analyses.
 <img width="1050" alt="Screenshot 2024-04-24 at 6 10 24 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/74cc7121-a086-4cf8-b33f-d7effb27b711">
 <img width="1059" alt="Screenshot 2024-04-24 at 6 10 46 PM" src="https://github.com/ekmcneice/Group-Project-2-MIST4610/assets/163002253/a9c41711-cba5-479c-bb75-d97180cef1ff">
 
