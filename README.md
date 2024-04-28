@@ -10,7 +10,7 @@ Warren Paintsil  [@wpaintsil]
 
 Nathan Favors [@Nathanfavors]
 
-Duncan Zeller   [@duncanzeller]
+Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/Group-Project-2-MIST4610)
 
 Jessica Hall [@jessicahall57]
 
