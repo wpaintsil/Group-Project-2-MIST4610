@@ -6,7 +6,7 @@
 
 Emily McNeice    [@ekmcneice]
 
-Warren Paintsil  [@wpaintsil]
+Warren Paintsil  [@wpaintsil](https://github.com/wpaintsil/Group-Project-2-MIST4610)
 
 Nathan Favors [@Nathanfavors]
 
