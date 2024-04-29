@@ -8,18 +8,19 @@ Emily McNeice    [@ekmcneice](https://github.com/ekmcneice/Group-Project-2-MIST4
 
 Warren Paintsil  [@wpaintsil](https://github.com/wpaintsil/Group-Project-2-MIST4610)
 
-Nathan Favors [@Nathanfavors]
+Nathan Favors [@Nathanfavors](https://github.com/Nathanfavors/Group-Project-2-MIST4610)
 
 Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/Group-Project-2-MIST4610)
 
-Jessica Hall [@jessicahall57]
+Jessica Hall [@jessicahall57](https://github.com/jessicahall57/Group-Project-2-MIST4610)
 
 Owen Goble [@OwenGoble](https://github.com/OwenGoble/Group-Project-2-MIST4610)
 
 
 https://catalog.data.gov/dataset/1-08-crash-data-report-detail-498c3
 
-
+## Data Description
+Our dataset encompasses a variety of metrics detailing car accidents occurring in Tempe, Arizona, where Arizona State University is situated. The dataset contains tables linked to metrics that might have influenced a collision, including factors like alcohol/drug use, road surface condition, and weather. Additional tables uniquely pinpoint each accident by utilizing information such as the date/time, manner of collision, age and gender of each driver, street name, and severity of injuries. Given that our data focuses on a particular college town, the age distribution of drivers typically mirrors the high concentration of college students, with fewer accidents occurring overall during the summer months.
 
 ## Question 1: What correlations exist between the seasonal migration of college students in Tempe, Arizona, and the occurrence of high severity traffic crashes, and how do the ages of drivers involved in crashes vary across different months of the year?
 Understanding how temporal fluctuations in population demographics, such as the seasonal migration of college students, intersect with road safety outcomes in Tempe helps to identify vulnerable age groups and seasonal trends. By identifying these correlations, transportation authorities can develop more effective strategies for mitigating road risks, enhancing safety measures, and ultimately reducing the incidence of high severity traffic crashes throughout the year.
@@ -40,7 +41,7 @@ Understanding the age demographics of drivers involved in various collision mann
 
 ## Question 2 Analysis 
 
-The analysis of collision manners based on drivers' ages in Tempe shows that drivers in their early 20s are involved in a significant number of collisions. This may be attributed to the demographics of Tempe, Arizona, and the fact that this is a college area. However, when considering the proportions of different collision types and age, there doesn't seem to be a clear link between the type of collision and the age of the driver. This suggests that while younger drivers may be at higher risk overall, the specific type of collision they're involved in isn't strongly influenced by their age. The most common collision manner for most of the ages, though, is rear end. This could possibly be attributed to certain factors like distracted driving and not having enough time to react. Overall, this highlights the need for targeted interventions to address the higher collision rates among younger drivers, while also recognizing that multiple factors contribute to collision outcomes in Tempe.
+The analysis of collision manners based on drivers' ages in Tempe shows that drivers in their late teens and early 20s are involved in a significant number of collisions. This may be attributed to the demographics of Tempe, Arizona, and the fact that this is a college area. However, when considering the proportions of different collision types and age, there doesn't seem to be a clear link between the type of collision and the age of the driver. This suggests that while younger drivers may be at higher risk overall, the specific type of collision they're involved in isn't strongly influenced by their age. The most common collision manner for most of the ages, though, is rear end. This could possibly be attributed to certain factors like distracted driving and not having enough time to react. Overall, this highlights the need for targeted interventions to address the higher collision rates among younger drivers, while also recognizing that multiple factors contribute to collision outcomes in Tempe.
 
 
 
